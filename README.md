@@ -78,7 +78,7 @@ The **Voice-Based Patient Call System** is designed to streamline communication 
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Kailash51/Voice-Based-Patient-Call-System.git
+git clone https://github.com/SahabiAnsari/Voice-Based-Patient-Call-System.git
 cd Voice-Based-Patient-Call-System
 ```
 #### 2. Backend Setup
